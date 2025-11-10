@@ -16,20 +16,14 @@ Pada branch **`react-query`**, aplikasi ini dikembangkan lebih lanjut dengan **R
 ## ⚙️ Langkah Instalasi dan Menjalankan Aplikasi
 
 ### 1️⃣ Clone repository
-```bash
+
 git clone https://github.com/username/pos-optimized.git
 cd pos-optimized
 2️⃣ Ganti ke branch react-query
-bash
-Copy code
 git checkout react-query
 3️⃣ Install dependencies
-bash
-Copy code
 npm install
 4️⃣ Jalankan aplikasi
-bash
-Copy code
 npm run dev
 📊 Eksperimen: Perbandingan Sebelum dan Sesudah React Query
 Aspek	Sebelum React Query (Custom Cache)	Sesudah React Query
