@@ -1,3 +1,7 @@
+✍️ Dibuat oleh:
+Nama: Daffa' Zaki Al Farras
+Mata Kuliah: Pemrograman Frontend — Optimasi Performa React
+Dosen: Nanang M. Yusuf, S.Kom., M.Kom
 # 🧾 Tugas React Optimization — POS (Point of Sales) with React Query
 
 ## 📘 Deskripsi
@@ -19,11 +23,14 @@ Pada branch **`react-query`**, aplikasi ini dikembangkan lebih lanjut dengan **R
 
 git clone https://github.com/username/pos-optimized.git
 cd pos-optimized
-2️⃣ Ganti ke branch react-query
+
+### 2️⃣ Ganti ke branch react-query
 git checkout react-query
-3️⃣ Install dependencies
+
+### 3️⃣ Install dependencies
 npm install
-4️⃣ Jalankan aplikasi
+
+### 4️⃣ Jalankan aplikasi
 npm run dev
 📊 Eksperimen: Perbandingan Sebelum dan Sesudah React Query
 Aspek	Sebelum React Query (Custom Cache)	Sesudah React Query
@@ -106,8 +113,3 @@ Jawaban pertanyaan:
 Jawaban singkat:
 
 Ya, karena cache membuat data diambil dari memori, bukan diolah ulang atau diminta ulang dari server, sehingga respons UI jauh lebih cepat dan efisien.
-
-✍️ Dibuat oleh:
-Nama: Daffa' Zaki Al Farras
-Mata Kuliah: Pemrograman Frontend — Optimasi Performa React
-Dosen: Nanang M. Yusuf, S.Kom., M.Kom
